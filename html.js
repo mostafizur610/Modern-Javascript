@@ -3,7 +3,7 @@
 // }
 // console.log(fun(4,9));
 
-// * arror function
+// *............................ arror function
 
 // function number (){
 //     return 10;
@@ -99,6 +99,6 @@
 
 
 
-import *as test from './externel.js';
+import * as test from './externel.js';
 
 console.log(test.a);
